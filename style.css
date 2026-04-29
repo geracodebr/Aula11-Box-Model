@@ -1,11 +1,12 @@
 p {
-    margin: 5px;
-    padding: 2px;
     border: 1px solid #000;
 }
 
-h1 {
-    margin: 10px;
-    padding: 10px;
-    border: 1px solid #000;
+.in-line {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.block {
+    display: block;
 }
